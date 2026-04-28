@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://smiledentalclinic-vvqs.vercel.app/sitemap.xml
